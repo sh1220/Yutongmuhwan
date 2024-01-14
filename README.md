@@ -35,14 +35,14 @@
 
 ** 레시피 화면 **
 1. 난이도를 선택하면, 재료에 따라 메뉴 추천
-![image](https://github.com/sh1220/Yutongmuhwan/assets/61071228/14ad451c-ea7b-4f1c-8b13-7dea787c172d)
-![image](https://github.com/sh1220/Yutongmuhwan/assets/61071228/bdb1b4a3-de44-43ea-9dbf-e57644af102c)
+   
+![image](https://github.com/sh1220/Yutongmuhwan/assets/61071228/14ad451c-ea7b-4f1c-8b13-7dea787c172d)![image](https://github.com/sh1220/Yutongmuhwan/assets/61071228/bdb1b4a3-de44-43ea-9dbf-e57644af102c)
 
 2. 결과 창
-![image](https://github.com/sh1220/Yutongmuhwan/assets/61071228/fd77778f-0da2-49ee-8c32-9476b756e9bf)
-![image](https://github.com/sh1220/Yutongmuhwan/assets/61071228/f0dc20cb-8d09-47b7-b786-29ea3ee9e24a)
+
+![image](https://github.com/sh1220/Yutongmuhwan/assets/61071228/fd77778f-0da2-49ee-8c32-9476b756e9bf)![image](https://github.com/sh1220/Yutongmuhwan/assets/61071228/f0dc20cb-8d09-47b7-b786-29ea3ee9e24a)
 
 
 ** 마이 페이지  **
-![image](https://github.com/sh1220/Yutongmuhwan/assets/61071228/0f681a0e-ec23-4fda-8a9d-be0b77947544)
-![image](https://github.com/sh1220/Yutongmuhwan/assets/61071228/0b45b321-634e-4fd4-9888-d01a3206fc00)
+
+![image](https://github.com/sh1220/Yutongmuhwan/assets/61071228/0f681a0e-ec23-4fda-8a9d-be0b77947544)![image](https://github.com/sh1220/Yutongmuhwan/assets/61071228/0b45b321-634e-4fd4-9888-d01a3206fc00)
