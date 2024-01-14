@@ -1,0 +1,8 @@
+<!-- res/drawable/rounded_rectangle.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="10dp" />
+    <solid android:color="#5E5E5E" /> <!-- 네모의 배경색 -->
+    <size
+        android:width="120dp"
+        android:height="70dp" /> <!-- 네모의 크기 -->
+</shape>
